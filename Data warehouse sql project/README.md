@@ -102,11 +102,13 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **kaouter RHAZLANI**. I’m a data engineer ....
+Hi there! I'm **Kaouter RHAZLANI**.  
+I’m a **Data Engineer** passionate about building efficient data pipelines, transforming raw data into meaningful insights, and contributing to data-driven solutions.
 
-Feel free to connect with on:
-## 🔗 Connect with me on LinkedIn
+Feel free to connect with me on:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaouter%20Rhazlani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaouter-rhazlani)
+
 
 
 

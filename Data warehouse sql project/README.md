@@ -105,7 +105,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **kaouter RHAZLANI**. I’m a data engineer ....
 
 Feel free to connect with on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaouter-rhazlani)
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaouter-rhazlani)
 
 
 
